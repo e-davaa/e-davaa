@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Davaa.
 - 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning TryHackMe,HackTheBox 
+- 🌱 I’m currently doing TryHackMe,HackTheBox 
 - 💞️ I’m looking to collaborate on CTF.
 - 😄 Pronouns: 
 - ⚡ Hobby : Gaming, Reading novels, CTF ...  
